@@ -15,11 +15,11 @@ This is a personal homepage/dashboard created as part of **VS Code Assignment 3*
 
 ## ✨ Features List
 
-- 📁 **Project Shelf** – Quick links to my GitHub repositories
-- 📝 **To-Do List** – Space to track current goals or assignments
-- 🎵 **Lo-Fi Lounge** – Embedded playlist for study vibes
-- 🌙 **Daily Brew** – A customizable area for quotes, thoughts, or focus points
-- 🌼 **Minimal, responsive design** with soft, calming visuals
+-  **Project Shelf** – Quick links to my GitHub repositories
+-  **To-Do List** – Space to track current goals or assignments
+-  **Lo-Fi Lounge** – Embedded playlist for study vibes
+-  **Daily Brew** – A customizable area for quotes, thoughts, or focus points
+-  **Minimal, responsive design** with soft, calming visuals
 
 ---
 
@@ -34,9 +34,9 @@ This is a personal homepage/dashboard created as part of **VS Code Assignment 3*
 
 ## 🐛 Known Bugs
 
-- [ ] Lo-Fi player may not display correctly on smaller screens
-- [ ] To-do list does not yet store checked items between sessions
-- [ ] Mobile responsiveness is still in progress
+- * Lo-Fi player may not display correctly on smaller screens
+- * To-do list does not yet store checked items between sessions
+- * Mobile responsiveness is still in progress
 
 ---
 
