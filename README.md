@@ -34,16 +34,16 @@ This is a personal homepage/dashboard created as part of **VS Code Assignment 3*
 
 ## 🐛 Known Bugs
 
-- * Lo-Fi player may not display correctly on smaller screens
-- * To-do list does not yet store checked items between sessions
-- * Mobile responsiveness is still in progress
+-  Lo-Fi player may not display correctly on smaller screens
+-  To-do list does not yet store checked items between sessions
+-  Mobile responsiveness is still in progress
 
 ---
 
 ## 👩‍💻 Contributors
 
 Created with love and code by:
-- [MintBanshee (Lexy)](https://github.com/mintbanshee) ✨
+- [MintBanshee](https://github.com/mintbanshee) ✨
 
 ---
 
@@ -52,7 +52,8 @@ Created with love and code by:
 To view or run this project:
 
 1. **Clone the repository** to your local machine:
-   git clone https://github.com/mintbanshee/cozy-dev-cafe.git
+
+ git clone https://github.com/mintbanshee/cozy-dev-cafe.git
 
 2. Open the project folder in Visual Studio Code:
    code cozy-dev-cafe
