@@ -53,7 +53,7 @@ To view or run this project:
 
 1. **Clone the repository** to your local machine:
 
- git clone https://github.com/mintbanshee/cozy-dev-cafe.git
+  git clone https://github.com/mintbanshee/cozy-dev-cafe.git
 
 2. Open the project folder in Visual Studio Code:
    code cozy-dev-cafe
